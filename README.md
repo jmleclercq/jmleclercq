@@ -48,9 +48,11 @@ Most of these start from the same itch: something in my home isn't controllable 
 | Project | What it does |
 |---|---|
 | 📷 **[xiao-esp32s3-sense-ha-cam](https://github.com/jmleclercq/xiao-esp32s3-sense-ha-cam)** | Camera on a Seeed XIAO ESP32S3 Sense, streamed & snapshotted into Home Assistant via ESPHome. First milestone of a bigger HA control-screen project. |
-| 🎵 **[sonos-esp32-panel](https://github.com/jmleclercq/sonos-esp32-panel)** | A dedicated touchscreen Sonos remote — play/pause, skip, volume — built on a Sunton ESP32 display, wired straight into Home Assistant. |
+| 🎵 **[sonos-esp32-panel](https://github.com/jmleclercq/sonos-esp32-panel)** | A working touchscreen Sonos remote — play/pause, skip, volume — built on a Sunton ESP32 2.8" display, wired straight into Home Assistant. |
+| 🎵 **[esp32-sonos-touch-controller](https://github.com/jmleclercq/esp32-sonos-touch-controller)** | The bigger-screen take on the same idea: a 3.5" ST7796 display driving a standalone Sonos control panel. Display + Wi‑Fi + HA API are working; touch input is still being wired up. |
 | 🌡️ **[esp32c6-zigbee-sht3x-sensor](https://github.com/jmleclercq/esp32c6-zigbee-sht3x-sensor)** | DIY Zigbee temperature & humidity sensor (ESP32-C6 + SHT3X), talks natively to Home Assistant ZHA — no cloud, no extra gateway. |
 | 🌡️ **[esphome-esp32-dht22-ha-sensor](https://github.com/jmleclercq/esphome-esp32-dht22-ha-sensor)** | The Wi‑Fi/ESPHome equivalent: an ESP32 + DHT22 sensor, fully local, OTA-ready, wiring documented. |
+| 📶 **[esphome-esp32-wifi-repeater](https://github.com/jmleclercq/esphome-esp32-wifi-repeater)** | Step-by-step guide to turn a cheap ESP32-C6 into a lightweight Wi‑Fi NAT router/repeater — flashing instructions, troubleshooting, the works. |
 | 🎙️ **[self-hosted-audio-guestbook](https://github.com/jmleclercq/self-hosted-audio-guestbook)** | Not IoT, but the same self-hosting mindset: guests scan a QR code and record a voice message straight from their browser. Lightweight PHP + vanilla JS, deploys on any shared hosting via FTP. |
 
 ---
@@ -69,9 +71,13 @@ Most of these start from the same itch: something in my home isn't controllable 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmleclercq&show_icons=true&theme=default&hide_title=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmleclercq&layout=compact&hide_border=true" width="38%" />
-</p>
+<!--
+  Optional: live GitHub stats card (third-party service, can be flaky/rate-limited —
+  remove this block entirely if the images don't load reliably for you).
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jmleclercq&show_icons=true&theme=default&hide_title=true&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmleclercq&layout=compact&hide_border=true" width="38%" />
+  </p>
+-->
 
 <p align="center"><sub>Writeups cover retired HTB machines only, in line with platform rules — published for educational purposes.</sub></p>
