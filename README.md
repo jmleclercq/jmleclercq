@@ -52,7 +52,7 @@ Most of these start from the same itch: something in my home isn't controllable 
 | 🎵 **[esp32-sonos-touch-controller](https://github.com/jmleclercq/esp32-sonos-touch-controller)** | The bigger-screen take on the same idea: a 3.5" ST7796 display driving a standalone Sonos control panel. Display + Wi‑Fi + HA API are working; touch input is still being wired up. |
 | 🌡️ **[esp32c6-zigbee-sht3x-sensor](https://github.com/jmleclercq/esp32c6-zigbee-sht3x-sensor)** | DIY Zigbee temperature & humidity sensor (ESP32-C6 + SHT3X), talks natively to Home Assistant ZHA — no cloud, no extra gateway. |
 | 🌡️ **[esphome-esp32-dht22-ha-sensor](https://github.com/jmleclercq/esphome-esp32-dht22-ha-sensor)** | The Wi‑Fi/ESPHome equivalent: an ESP32 + DHT22 sensor, fully local, OTA-ready, wiring documented. |
-| 📶 **[esphome-esp32-wifi-repeater](https://github.com/jmleclercq/esphome-esp32-wifi-repeater)** | Step-by-step guide to turn a cheap ESP32-C6 into a lightweight Wi‑Fi NAT router/repeater — flashing instructions, troubleshooting, the works. |
+| 📶 **[esp32c6-nat-router-guide](https://github.com/jmleclercq/esp32c6-nat-router-guide)** | Step-by-step guide to turn a cheap ESP32-C6 into a lightweight Wi‑Fi NAT router/repeater — flashing instructions, troubleshooting, the works. |
 | 🎙️ **[self-hosted-audio-guestbook](https://github.com/jmleclercq/self-hosted-audio-guestbook)** | Not IoT, but the same self-hosting mindset: guests scan a QR code and record a voice message straight from their browser. Lightweight PHP + vanilla JS, deploys on any shared hosting via FTP. |
 
 ---
