@@ -29,11 +29,11 @@ Personal collection of HTB retired machine & challenge walkthroughs. Documents i
 <td>
 
 ![Keeper](https://img.shields.io/badge/Keeper-Easy-success)
-![TwoMillion](https://img.shields.io/badge/TwoMillion-Easy-success)
+![Zero](https://img.shields.io/badge/Zero-Insane-success)
 ![Knife](https://img.shields.io/badge/Knife-Easy-success)
 ![Nibbles](https://img.shields.io/badge/Nibbles-Easy-success)
 ![Editor](https://img.shields.io/badge/Editor-Easy-success)
-![NanoCorp](https://img.shields.io/badge/NanoCorp-Hard-red)
+![NanoCorp](https://img.shields.io/badge/NanoCorp-Hard-success)
 
 </td>
 </tr>
