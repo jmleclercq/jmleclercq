@@ -14,6 +14,23 @@
 
 ---
 
+## ⌨️ hastty
+
+<p align="left">
+  <a href="https://github.com/jmleclercq/hastty"><img src="https://img.shields.io/github/stars/jmleclercq/hastty?style=for-the-badge&color=41BDF5&label=stars" /></a>
+  <a href="https://pypi.org/project/hastty/"><img src="https://img.shields.io/pypi/v/hastty?style=for-the-badge&label=pypi" /></a>
+</p>
+
+A terminal (TUI) dashboard for Home Assistant, built with [Textual](https://textual.textualize.io/). It mirrors your existing Lovelace views and lets you toggle a light, run a scene, or trigger an automation straight from the keyboard — no browser required, live state updates included.
+
+```bash
+pip install hastty
+```
+
+**[github.com/jmleclercq/hastty](https://github.com/jmleclercq/hastty)**
+
+---
+
 ## 🎯 Security & CTF
 
 I work through Hack The Box retired machines and write up the methodology — not just the commands, but the reasoning behind each step (enumeration → foothold → privesc → lessons learned).
