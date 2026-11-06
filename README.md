@@ -64,7 +64,7 @@ Most of these start from the same itch: something in my home isn't controllable 
 
 | Project | What it does |
 |---|---|
-| 📷 **[xiao-esp32s3-sense-ha-cam](https://github.com/jmleclercq/xiao-esp32s3-sense-ha-cam)** | Camera on a Seeed XIAO ESP32S3 Sense, streamed & snapshotted into Home Assistant via ESPHome. First milestone of a bigger HA control-screen project. |
+| 📷 **[minicam-esp32-ha](https://github.com/jmleclercq/minicam-esp32-ha)** | ESPHome camera for Home Assistant on a Seeed XIAO ESP32S3 Sense or an AI-Thinker ESP32-CAM — live stream & snapshots, shared config, OTA updates, CI-validated YAML. |
 | 🎵 **[sonos-esp32-panel](https://github.com/jmleclercq/sonos-esp32-panel)** | A working touchscreen Sonos remote — play/pause, skip, volume — built on a Sunton ESP32 2.8" display, wired straight into Home Assistant. |
 | 🎵 **[esp32-sonos-touch-controller](https://github.com/jmleclercq/esp32-sonos-touch-controller)** | The bigger-screen take on the same idea: a 3.5" ST7796 display driving a standalone Sonos control panel. Display + Wi‑Fi + HA API are working; touch input is still being wired up. |
 | 🌡️ **[esp32c6-zigbee-sht3x-sensor](https://github.com/jmleclercq/esp32c6-zigbee-sht3x-sensor)** | DIY Zigbee temperature & humidity sensor (ESP32-C6 + SHT3X), talks natively to Home Assistant ZHA — no cloud, no extra gateway. |
